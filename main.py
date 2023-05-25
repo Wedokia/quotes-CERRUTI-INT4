@@ -5,7 +5,9 @@ def menu():
     print("1. Random quote")
     print("2. All quotes")
     print("4. Display Count")
-    print("5. Exit")
+    print("5. Add quotes")
+    print("4. Exit")
+
 
 def main():
     while True:
@@ -19,6 +21,8 @@ def main():
         elif choice == "2":
             view_quotes(quotes)
         elif choice == "5":
+            add_quote(quotes, "quotes.txt")
+        elif choice == "4":
             print("Good bye...")
             break
         elif choice == "4" :
