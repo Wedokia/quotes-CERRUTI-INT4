@@ -44,13 +44,13 @@ A simple python project that generates programming quotes and jokes.
 
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
 <strong>contributor-1</strong>
-</button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
+</button>](https://github.com/Meunier6969/quotes-MEUNIER-INT4)  
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
 <strong>contributor-2</strong>
-</button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
+</button>](https://github.com/Communick/quotes-MSALMI-INT4)  
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
 <strong>contributor-3</strong>
-</button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
+</button>](https://github.com/Warren-Kun18/quotes-ASSEPO-INT4)  
 
 </body>
 </html>
